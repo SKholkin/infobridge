@@ -85,12 +85,12 @@ Run `InfoBridge_high_dim_example.ipynb` jupyter notebook.
 ## Citation 
 
 ```
-@article{kholkin2025infobridge,
-  title        = {InfoBridge: Mutual Information estimation via Bridge Matching},
-  author       = {Kholkin, Sergei and Butakov, Ivan and Burnaev, Evgeny and Gushchin, Nikita and Korotin, Alexander},
-  journal      = {arXiv preprint arXiv:2502.01383},
-  year         = {2025},
-  doi          = {10.48550/arXiv.2502.01383},
-  url          = {https://arxiv.org/abs/2502.01383}
+@inproceedings{
+kholkin2026infobridge,
+title={InfoBridge: Mutual Information estimation via Bridge Matching},
+author={Sergei Kholkin and Ivan Butakov and Evgeny Burnaev and Nikita Gushchin and Alexander Korotin},
+booktitle={The Fourteenth International Conference on Learning Representations},
+year={2026},
+url={https://openreview.net/forum?id=y8Kzu9SKpv}
 }
 ```
