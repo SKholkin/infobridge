@@ -1,10 +1,10 @@
 # InfoBridge: Mutual Information estimation via Bridge Matching
 
-This is the official PyTorch implementation of our arXiv paper  
+This is the official PyTorch implementation of our ICLR 2026 paper
 **“InfoBridge: Mutual Information estimation via Bridge Matching”**  
 by **[Sergei Kholkin](https://scholar.google.com/citations?user=KwhztSMAAAAJ&hl=en), [Ivan Butakov](https://scholar.google.com/citations?user=AYr57xsAAAAJ&hl=en), [Evgeny Burnaev](https://scholar.google.com/citations?user=pCRdcOwAAAAJ&hl=ru), [Nikita Gushchin](https://scholar.google.com/citations?user=UaRTbNoAAAAJ&hl=ru), [Alexander Korotin](https://scholar.google.com/citations?user=1rIIvjAAAAAJ&hl=ru)**.  
 
-Paper: https://arxiv.org/abs/2502.01383
+Paper: https://openreview.net/forum?id=y8Kzu9SKpv
 
 **Abstract**: Diffusion bridge models have recently become a powerful tool in the field of generative modeling. In this work, we leverage their power to address another important problem in machine learning and information theory, the estimation of the mutual information (MI) between two random variables. Neatly framing MI estimation as a domain transfer problem, we construct an unbiased estimator for data posing difficulties for conventional MI estimators. We showcase the performance of our estimator on three standard MI estimation benchmarks, i.e., low-dimensional, image-based and high MI, and on real-world data, i.e., protein language model embeddings.
 
